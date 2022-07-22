@@ -1,0 +1,14 @@
+D:\C#PROBLEMS\PrimeNumber\PrimeNumber\bin\Debug\netcoreapp3.1\PrimeNumber.exe
+D:\C#PROBLEMS\PrimeNumber\PrimeNumber\bin\Debug\netcoreapp3.1\PrimeNumber.deps.json
+D:\C#PROBLEMS\PrimeNumber\PrimeNumber\bin\Debug\netcoreapp3.1\PrimeNumber.runtimeconfig.json
+D:\C#PROBLEMS\PrimeNumber\PrimeNumber\bin\Debug\netcoreapp3.1\PrimeNumber.runtimeconfig.dev.json
+D:\C#PROBLEMS\PrimeNumber\PrimeNumber\bin\Debug\netcoreapp3.1\PrimeNumber.dll
+D:\C#PROBLEMS\PrimeNumber\PrimeNumber\bin\Debug\netcoreapp3.1\PrimeNumber.pdb
+D:\C#PROBLEMS\PrimeNumber\PrimeNumber\obj\Debug\netcoreapp3.1\PrimeNumber.csproj.AssemblyReference.cache
+D:\C#PROBLEMS\PrimeNumber\PrimeNumber\obj\Debug\netcoreapp3.1\PrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#PROBLEMS\PrimeNumber\PrimeNumber\obj\Debug\netcoreapp3.1\PrimeNumber.AssemblyInfoInputs.cache
+D:\C#PROBLEMS\PrimeNumber\PrimeNumber\obj\Debug\netcoreapp3.1\PrimeNumber.AssemblyInfo.cs
+D:\C#PROBLEMS\PrimeNumber\PrimeNumber\obj\Debug\netcoreapp3.1\PrimeNumber.csproj.CoreCompileInputs.cache
+D:\C#PROBLEMS\PrimeNumber\PrimeNumber\obj\Debug\netcoreapp3.1\PrimeNumber.dll
+D:\C#PROBLEMS\PrimeNumber\PrimeNumber\obj\Debug\netcoreapp3.1\PrimeNumber.pdb
+D:\C#PROBLEMS\PrimeNumber\PrimeNumber\obj\Debug\netcoreapp3.1\PrimeNumber.genruntimeconfig.cache
