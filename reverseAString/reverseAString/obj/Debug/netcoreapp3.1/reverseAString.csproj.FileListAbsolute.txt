@@ -1,0 +1,14 @@
+D:\C#PROBLEMS\reverseAString\reverseAString\bin\Debug\netcoreapp3.1\reverseAString.exe
+D:\C#PROBLEMS\reverseAString\reverseAString\bin\Debug\netcoreapp3.1\reverseAString.deps.json
+D:\C#PROBLEMS\reverseAString\reverseAString\bin\Debug\netcoreapp3.1\reverseAString.runtimeconfig.json
+D:\C#PROBLEMS\reverseAString\reverseAString\bin\Debug\netcoreapp3.1\reverseAString.runtimeconfig.dev.json
+D:\C#PROBLEMS\reverseAString\reverseAString\bin\Debug\netcoreapp3.1\reverseAString.dll
+D:\C#PROBLEMS\reverseAString\reverseAString\bin\Debug\netcoreapp3.1\reverseAString.pdb
+D:\C#PROBLEMS\reverseAString\reverseAString\obj\Debug\netcoreapp3.1\reverseAString.csproj.AssemblyReference.cache
+D:\C#PROBLEMS\reverseAString\reverseAString\obj\Debug\netcoreapp3.1\reverseAString.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#PROBLEMS\reverseAString\reverseAString\obj\Debug\netcoreapp3.1\reverseAString.AssemblyInfoInputs.cache
+D:\C#PROBLEMS\reverseAString\reverseAString\obj\Debug\netcoreapp3.1\reverseAString.AssemblyInfo.cs
+D:\C#PROBLEMS\reverseAString\reverseAString\obj\Debug\netcoreapp3.1\reverseAString.csproj.CoreCompileInputs.cache
+D:\C#PROBLEMS\reverseAString\reverseAString\obj\Debug\netcoreapp3.1\reverseAString.dll
+D:\C#PROBLEMS\reverseAString\reverseAString\obj\Debug\netcoreapp3.1\reverseAString.pdb
+D:\C#PROBLEMS\reverseAString\reverseAString\obj\Debug\netcoreapp3.1\reverseAString.genruntimeconfig.cache

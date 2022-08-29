@@ -1,0 +1,14 @@
+D:\C#PROBLEMS\SumOfEven1toN\SumOfEven1toN\bin\Debug\netcoreapp3.1\SumOfEven1toN.exe
+D:\C#PROBLEMS\SumOfEven1toN\SumOfEven1toN\bin\Debug\netcoreapp3.1\SumOfEven1toN.deps.json
+D:\C#PROBLEMS\SumOfEven1toN\SumOfEven1toN\bin\Debug\netcoreapp3.1\SumOfEven1toN.runtimeconfig.json
+D:\C#PROBLEMS\SumOfEven1toN\SumOfEven1toN\bin\Debug\netcoreapp3.1\SumOfEven1toN.runtimeconfig.dev.json
+D:\C#PROBLEMS\SumOfEven1toN\SumOfEven1toN\bin\Debug\netcoreapp3.1\SumOfEven1toN.dll
+D:\C#PROBLEMS\SumOfEven1toN\SumOfEven1toN\bin\Debug\netcoreapp3.1\SumOfEven1toN.pdb
+D:\C#PROBLEMS\SumOfEven1toN\SumOfEven1toN\obj\Debug\netcoreapp3.1\SumOfEven1toN.csproj.AssemblyReference.cache
+D:\C#PROBLEMS\SumOfEven1toN\SumOfEven1toN\obj\Debug\netcoreapp3.1\SumOfEven1toN.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#PROBLEMS\SumOfEven1toN\SumOfEven1toN\obj\Debug\netcoreapp3.1\SumOfEven1toN.AssemblyInfoInputs.cache
+D:\C#PROBLEMS\SumOfEven1toN\SumOfEven1toN\obj\Debug\netcoreapp3.1\SumOfEven1toN.AssemblyInfo.cs
+D:\C#PROBLEMS\SumOfEven1toN\SumOfEven1toN\obj\Debug\netcoreapp3.1\SumOfEven1toN.csproj.CoreCompileInputs.cache
+D:\C#PROBLEMS\SumOfEven1toN\SumOfEven1toN\obj\Debug\netcoreapp3.1\SumOfEven1toN.dll
+D:\C#PROBLEMS\SumOfEven1toN\SumOfEven1toN\obj\Debug\netcoreapp3.1\SumOfEven1toN.pdb
+D:\C#PROBLEMS\SumOfEven1toN\SumOfEven1toN\obj\Debug\netcoreapp3.1\SumOfEven1toN.genruntimeconfig.cache

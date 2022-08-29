@@ -1,0 +1,14 @@
+D:\C#PROBLEMS\FirstNLastDigit\FirstNLastDigit\bin\Debug\netcoreapp3.1\FirstNLastDigit.exe
+D:\C#PROBLEMS\FirstNLastDigit\FirstNLastDigit\bin\Debug\netcoreapp3.1\FirstNLastDigit.deps.json
+D:\C#PROBLEMS\FirstNLastDigit\FirstNLastDigit\bin\Debug\netcoreapp3.1\FirstNLastDigit.runtimeconfig.json
+D:\C#PROBLEMS\FirstNLastDigit\FirstNLastDigit\bin\Debug\netcoreapp3.1\FirstNLastDigit.runtimeconfig.dev.json
+D:\C#PROBLEMS\FirstNLastDigit\FirstNLastDigit\bin\Debug\netcoreapp3.1\FirstNLastDigit.dll
+D:\C#PROBLEMS\FirstNLastDigit\FirstNLastDigit\bin\Debug\netcoreapp3.1\FirstNLastDigit.pdb
+D:\C#PROBLEMS\FirstNLastDigit\FirstNLastDigit\obj\Debug\netcoreapp3.1\FirstNLastDigit.csproj.AssemblyReference.cache
+D:\C#PROBLEMS\FirstNLastDigit\FirstNLastDigit\obj\Debug\netcoreapp3.1\FirstNLastDigit.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#PROBLEMS\FirstNLastDigit\FirstNLastDigit\obj\Debug\netcoreapp3.1\FirstNLastDigit.AssemblyInfoInputs.cache
+D:\C#PROBLEMS\FirstNLastDigit\FirstNLastDigit\obj\Debug\netcoreapp3.1\FirstNLastDigit.AssemblyInfo.cs
+D:\C#PROBLEMS\FirstNLastDigit\FirstNLastDigit\obj\Debug\netcoreapp3.1\FirstNLastDigit.csproj.CoreCompileInputs.cache
+D:\C#PROBLEMS\FirstNLastDigit\FirstNLastDigit\obj\Debug\netcoreapp3.1\FirstNLastDigit.dll
+D:\C#PROBLEMS\FirstNLastDigit\FirstNLastDigit\obj\Debug\netcoreapp3.1\FirstNLastDigit.pdb
+D:\C#PROBLEMS\FirstNLastDigit\FirstNLastDigit\obj\Debug\netcoreapp3.1\FirstNLastDigit.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\C#PROBLEMS\ArmstrongNumber\ArmstrongNumber\bin\Debug\netcoreapp3.1\ArmstrongNumber.exe
+D:\C#PROBLEMS\ArmstrongNumber\ArmstrongNumber\bin\Debug\netcoreapp3.1\ArmstrongNumber.deps.json
+D:\C#PROBLEMS\ArmstrongNumber\ArmstrongNumber\bin\Debug\netcoreapp3.1\ArmstrongNumber.runtimeconfig.json
+D:\C#PROBLEMS\ArmstrongNumber\ArmstrongNumber\bin\Debug\netcoreapp3.1\ArmstrongNumber.runtimeconfig.dev.json
+D:\C#PROBLEMS\ArmstrongNumber\ArmstrongNumber\bin\Debug\netcoreapp3.1\ArmstrongNumber.dll
+D:\C#PROBLEMS\ArmstrongNumber\ArmstrongNumber\bin\Debug\netcoreapp3.1\ArmstrongNumber.pdb
+D:\C#PROBLEMS\ArmstrongNumber\ArmstrongNumber\obj\Debug\netcoreapp3.1\ArmstrongNumber.csproj.AssemblyReference.cache
+D:\C#PROBLEMS\ArmstrongNumber\ArmstrongNumber\obj\Debug\netcoreapp3.1\ArmstrongNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#PROBLEMS\ArmstrongNumber\ArmstrongNumber\obj\Debug\netcoreapp3.1\ArmstrongNumber.AssemblyInfoInputs.cache
+D:\C#PROBLEMS\ArmstrongNumber\ArmstrongNumber\obj\Debug\netcoreapp3.1\ArmstrongNumber.AssemblyInfo.cs
+D:\C#PROBLEMS\ArmstrongNumber\ArmstrongNumber\obj\Debug\netcoreapp3.1\ArmstrongNumber.csproj.CoreCompileInputs.cache
+D:\C#PROBLEMS\ArmstrongNumber\ArmstrongNumber\obj\Debug\netcoreapp3.1\ArmstrongNumber.dll
+D:\C#PROBLEMS\ArmstrongNumber\ArmstrongNumber\obj\Debug\netcoreapp3.1\ArmstrongNumber.pdb
+D:\C#PROBLEMS\ArmstrongNumber\ArmstrongNumber\obj\Debug\netcoreapp3.1\ArmstrongNumber.genruntimeconfig.cache

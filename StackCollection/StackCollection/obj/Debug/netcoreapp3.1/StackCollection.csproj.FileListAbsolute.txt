@@ -1,0 +1,14 @@
+D:\C#PROBLEMS\StackCollection\StackCollection\bin\Debug\netcoreapp3.1\StackCollection.exe
+D:\C#PROBLEMS\StackCollection\StackCollection\bin\Debug\netcoreapp3.1\StackCollection.deps.json
+D:\C#PROBLEMS\StackCollection\StackCollection\bin\Debug\netcoreapp3.1\StackCollection.runtimeconfig.json
+D:\C#PROBLEMS\StackCollection\StackCollection\bin\Debug\netcoreapp3.1\StackCollection.runtimeconfig.dev.json
+D:\C#PROBLEMS\StackCollection\StackCollection\bin\Debug\netcoreapp3.1\StackCollection.dll
+D:\C#PROBLEMS\StackCollection\StackCollection\bin\Debug\netcoreapp3.1\StackCollection.pdb
+D:\C#PROBLEMS\StackCollection\StackCollection\obj\Debug\netcoreapp3.1\StackCollection.csproj.AssemblyReference.cache
+D:\C#PROBLEMS\StackCollection\StackCollection\obj\Debug\netcoreapp3.1\StackCollection.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#PROBLEMS\StackCollection\StackCollection\obj\Debug\netcoreapp3.1\StackCollection.AssemblyInfoInputs.cache
+D:\C#PROBLEMS\StackCollection\StackCollection\obj\Debug\netcoreapp3.1\StackCollection.AssemblyInfo.cs
+D:\C#PROBLEMS\StackCollection\StackCollection\obj\Debug\netcoreapp3.1\StackCollection.csproj.CoreCompileInputs.cache
+D:\C#PROBLEMS\StackCollection\StackCollection\obj\Debug\netcoreapp3.1\StackCollection.dll
+D:\C#PROBLEMS\StackCollection\StackCollection\obj\Debug\netcoreapp3.1\StackCollection.pdb
+D:\C#PROBLEMS\StackCollection\StackCollection\obj\Debug\netcoreapp3.1\StackCollection.genruntimeconfig.cache
